@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/guilherme0s/IDaaS/pkg/api"
-	"github.com/guilherme0s/IDaaS/pkg/config"
+	"github.com/guilherme0s/crm/pkg/api"
+	"github.com/guilherme0s/crm/pkg/config"
 )
 
 func main() {

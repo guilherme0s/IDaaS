@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/guilherme0s/IDaaS/pkg/config"
+	"github.com/guilherme0s/crm/pkg/config"
 )
 
 type HTTPServer struct {
